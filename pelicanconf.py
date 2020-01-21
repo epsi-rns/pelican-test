@@ -7,7 +7,7 @@ from datetime import date
 
 AUTHOR = 'epsi'
 SITENAME = 'Yet Another Static Blog'
-SITEURL = 'pelican-test/'
+SITEURL = ''
 
 THEME = "tutor-07"
 
